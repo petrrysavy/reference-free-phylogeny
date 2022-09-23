@@ -2,9 +2,11 @@
 
 In this repository, you might find source codes for the reference-free phylogeny
 presented in the paper:
+```
 Petr Ryšavý, Filip Železný
 Reference-Free Phylogeny from Sequencing Data
 TODO: we will provide a complete citation when the paper gets published
+```
 
 Aim of this tool is to calculate distance matrix between several genomes knowing
 only raw read data and/or contig assemblies. The method is based on extension of
