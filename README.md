@@ -5,7 +5,7 @@ presented in the paper:
 ```
 Petr Ryšavý, Filip Železný
 Reference-Free Phylogeny from Sequencing Data
-TODO: we will provide a complete citation when the paper gets published
+BioData Mining 16, 13 (2023). https://doi.org/10.1186/s13040-023-00329-x
 ```
 
 Aim of this tool is to calculate distance matrix between several genomes knowing
